@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ambiente / segredos
+.env
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# Pessoal — não faz parte da atividade
+metodologia-ensino.md
+erros-recorrentes.md
